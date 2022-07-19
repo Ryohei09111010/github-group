@@ -4,4 +4,4 @@
 
 ## ShunSato13
 
-## 佐藤駿
+## Sato Shun
